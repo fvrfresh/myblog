@@ -1,2 +1,6 @@
 # myblog
-myblog 是一个个人博客项目，前端采用bootstrap,vue，thymeleaf搭建，后端采用Spring Boot。
+A simple blogging system implemented with Spring Boot + Mybatis + Mysql + Bootstrap4.
+
+[main page](http://47.114.190.23:8080/)
+
+
