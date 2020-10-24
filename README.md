@@ -1,6 +1,4 @@
 # myblog
-A simple blogging system implemented with Spring Boot + Mybatis + Mysql + Bootstrap4.
-
-[main page](http://47.114.190.23:8080/)
+一个简单的个人博客系统。前端采用Bootstrap4构建，后端采用Spring Boot。
 
 
