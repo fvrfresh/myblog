@@ -4,9 +4,9 @@ spring:
   datasource:
     druid:
       username: root
-      password: flzx_3QC
+      password: ********
       url: 
-      # 以隐去mysql数据库的真实地址
+      # 浠ラ殣鍘籱ysql鏁版嵁搴撶殑鐪熷疄鍦板潃
       jdbc:mysql://localhost:3306/myblog?useSSL=true&serverTimezone=Asia/Shanghai&useUnicode=true&charsetEncoding=utf-8
       driver-class-name: com.mysql.cj.jdbc.Driver
       initial-size: 10
