@@ -19,7 +19,8 @@
 * 后端
   * Spring Boot
 ## 预览图
-* 游客界面
-* 管理员界面
+###### 游客界面
+请移步[这里](http://47.114.190.23:8080/)
+###### 管理员界面
 ![admin1.png](https://github.com/zxEric2/IMG-Storage/raw/master/myblog-img/admin1.png)
 ![admin2.png](https://github.com/zxEric2/IMG-Storage/raw/master/myblog-img/admin2.png)
