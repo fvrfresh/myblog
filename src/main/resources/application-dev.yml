@@ -4,7 +4,7 @@ spring:
   datasource:
     druid:
       username: root
-      password: flzx_3qc
+      password: ******
       url: jdbc:mysql://localhost:3308/myblog?useSSL=true&serverTimezone=Asia/Shanghai&useUnicode=true&charsetEncoding=utf-8
       driver-class-name: com.mysql.cj.jdbc.Driver
       initial-size: 10
